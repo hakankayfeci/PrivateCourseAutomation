@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="19356044f0714bda98c86df6e1fc1137" Name="Diagram1">
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_Applications" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_Membership" Width="1.5" PointX="6" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_Paths" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_PersonalizationAllUsers" Width="1.5" PointX="5.25" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_PersonalizationPerUser" Width="1.5" PointX="5.25" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_Profile" Width="1.5" PointX="10.5" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_Roles" Width="1.5" PointX="3" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_SchemaVersions" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_Users" Width="1.5" PointX="8.25" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.aspnet_WebEvent_Events" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.AuthorizedNumber" Width="1.5" PointX="8.25" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.CharacterNote" Width="1.5" PointX="15.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.Class" Width="1.5" PointX="15.75" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.EmployeeExpens" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.EmployeePayment" Width="1.5" PointX="8.25" PointY="20" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.Employee" Width="1.5" PointX="10.5" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.ExamResult" Width="1.5" PointX="15" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.IntegrationClass" Width="1.5" PointX="18" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.Lesson" Width="1.5" PointX="13.5" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.Role" Width="1.5" PointX="6" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.RollCall" Width="1.5" PointX="15" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.Student" Width="1.5" PointX="12.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.TrialExamResult" Width="1.5" PointX="18" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.TrialExam" Width="1.5" PointX="15.75" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.UserAuthorize" Width="1.5" PointX="10.5" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_Applications" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_MembershipUsers" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_Profiles" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_Roles" Width="1.5" PointX="2.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_Users" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_UsersInRoles" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_WebPartState_Paths" Width="1.5" PointX="12.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_WebPartState_Shared" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PrivacyCourseDBModel.vw_aspnet_WebPartState_User" Width="1.5" PointX="2.75" PointY="13.75" IsExpanded="true" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Me__Appli__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Pa__Appli__00200768" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Ro__Appli__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Us__Appli__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Me__UserI__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Pe__PathI__05D8E0BE" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Pe__PathI__09A971A2" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Pe__UserI__0A9D95DB" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__aspnet_Pr__UserI__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__UserAutho__UserI__4F47C5E3" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__Authorize__RoleI__51300E55" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__Employees__Autho__2A164134" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__UserAutho__Autho__503BEA1C" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__ExamResul__Chara__3B40CD36" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__TrialExam__Chara__42E1EEFE" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__Classes__LessonI__2CF2ADDF" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__Integrati__Class__2FCF1A8A" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__EmployeeP__RoleI__339FAB6E" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__Employees__RoleI__29221CFB" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__ExamResul__Lesso__3A4CA8FD" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__ExamResul__Stude__395884C4" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__Integrati__Stude__30C33EC3" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__TrialExam__Lesso__3E1D39E1" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__RollCall__Studen__367C1819" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__TrialExam__Stude__41EDCAC5" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.FK__TrialExam__Trial__40F9A68C" ManuallyRouted="false" />
+        <AssociationConnector Association="PrivacyCourseDBModel.aspnet_UsersInRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
